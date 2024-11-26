@@ -3,3 +3,4 @@ math
 .vscode
 .DS_Store
 env
+__pycache__
