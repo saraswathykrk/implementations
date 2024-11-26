@@ -86,7 +86,7 @@ st.write('You selected:', options)
 
 # Displaying images on the front end
 from PIL import Image
-image = Image.open('sunrise.jpg')
+image = Image.open('./sunrise.jpg')
 
 st.image(image, caption='Sunrise by the mountains')
 
