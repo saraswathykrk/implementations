@@ -1,4 +1,5 @@
 .venv
 math
-.env
 .vscode
+.DS_Store
+env
